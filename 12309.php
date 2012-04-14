@@ -1874,5 +1874,5 @@ switch ($_REQUEST['p']) {
   phpinfo();
   break;
 } 
-// :)
+//recoded by www.pc33.us :)
 ?>
